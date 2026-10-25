@@ -1,0 +1,23 @@
+Route,Step,X,Y,Cumulative_Distance,Battery_Percent
+Direct Route,0,5.0,10.0,0.0,100.0
+Direct Route,1,25.0,28.0,26.91,94.08
+Direct Route,2,45.0,46.0,53.81,88.16
+Direct Route,3,65.0,64.0,80.72,82.24
+Direct Route,4,80.0,78.0,101.24,77.73
+Direct Route,5,95.0,90.0,120.45,73.5
+Zigzag Route,0,5.0,10.0,0.0,100.0
+Zigzag Route,1,20.0,35.0,29.15,93.59
+Zigzag Route,2,35.0,15.0,54.15,87.44
+Zigzag Route,3,50.0,48.0,90.4,78.81
+Zigzag Route,4,65.0,30.0,113.83,73.01
+Zigzag Route,5,80.0,65.0,151.91,63.98
+Zigzag Route,6,95.0,90.0,181.07,57.56
+Detour Route,0,5.0,10.0,0.0,100.0
+Detour Route,1,15.0,10.0,10.0,97.8
+Detour Route,2,15.0,35.0,35.0,91.65
+Detour Route,3,40.0,35.0,60.0,85.5
+Detour Route,4,40.0,60.0,85.0,79.35
+Detour Route,5,65.0,60.0,110.0,73.2
+Detour Route,6,65.0,80.0,130.0,68.15
+Detour Route,7,80.0,80.0,145.0,64.2
+Detour Route,8,95.0,90.0,163.03,59.58
